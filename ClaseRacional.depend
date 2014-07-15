@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1405360255 source:d:\documents\facultad\renata\github\claseracional\main.cpp
+	"Racional.h"
+	<iostream>
+
+1405355021 d:\documents\facultad\renata\github\claseracional\include\racional.h
+	<iostream>
+
+1405361495 source:d:\documents\facultad\renata\github\claseracional\src\racional.cpp
+	"Racional.h"
+	<iostream>
+
